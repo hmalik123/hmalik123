@@ -1,6 +1,6 @@
 - Hi, I’m @hmalik123 a recent Computer science graduate
 - I’m interested in Software Engineering 
-- I’m currently working as a Java Developer creating applications for big clients  
+- I’m currently working as a Graduate developer as part of the nucleargradutes Scheme 
 
 <!---
 hmalik123/hmalik123 is a special repository because its `README.md` (this file) appears on your GitHub profile.
