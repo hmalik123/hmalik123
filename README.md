@@ -2,7 +2,7 @@
 
 👨‍💻 I'm currently a Software Engineer part of the [Nucleargraduates](https://nucleargraduates.com/) Scheme sponsored by [Rolls-Royce](https://www.rolls-royce.com/)  
 📜 Studied Computer Science at [Brunel University London](https://www.brunel.ac.uk/study/courses/computer-science-bsc)  
-🔬 Currently on a placement researching Uncertainty Quantification in AI models and working on a Fullstack Web-App  
+🔬 Currently on a placement researching Uncertainty Quantification in AI models and working on a Fullstack Application  
 
 ---
 
