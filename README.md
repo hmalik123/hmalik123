@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Humza!
 
-👨‍💻 I'm currently a Software Engineer part of the [Nucleargraduates](https://nucleargraduates.com/) Scheme sponsored by [Rolls-Royce](https://www.rolls-royce.com/)  
+👨‍💻 I'm a Software Engineer at Rolls-Royce
 📜 Studied Computer Science at [Brunel University London](https://www.brunel.ac.uk/study/courses/computer-science-bsc)  
-🔬 Currently on a placement researching Uncertainty Quantification in AI models and working on a Fullstack Application  
+🔬 Mainly interested in Full-stack development 
 
 ---
 
